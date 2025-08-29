@@ -67,7 +67,8 @@ END
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
 <img width="631" height="385" alt="image" src="https://github.com/user-attachments/assets/f5839d4f-a4e5-447c-9fde-64dad67d4580" />
-![WhatsApp Image 2025-08-29 at 20 37 41_9f0b9f5a](https://github.com/user-attachments/assets/7d706c61-93ca-4099-b1db-749c06a3ab98)
+<img width="1442" height="900" alt="image" src="https://github.com/user-attachments/assets/2165b01e-a8ed-4245-8a22-b3a203096b53" />
+
 
 
 
