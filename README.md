@@ -105,6 +105,9 @@ END
 
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
+<img width="631" height="261" alt="image" src="https://github.com/user-attachments/assets/c63053bf-9646-450d-8dd7-8152a090f06d" />
+
+<img width="620" height="305" alt="image" src="https://github.com/user-attachments/assets/cf600e77-f385-471a-8aff-0d8cdd31c26c" />
 
 ## 3. MULTIPLICATION
 
