@@ -26,13 +26,9 @@ To write and execute Assembly Language Programs to perform arithmetic operations
 7. Store result.
 8. Stop.
 
-
 ## FLOW CHART
 <img width="707" height="1024" alt="image" src="https://github.com/user-attachments/assets/b5a7062d-e294-47cd-9683-a40de25e82de" />
-
-
 #### Program
-
 ```asm
 CODE SEGMENT
 ASSUME CS: CODE, DS: CODE
@@ -60,16 +56,14 @@ END
 |                         |                          |
 
 #### Manual Calculations
-
 <img width="872" height="566" alt="image" src="https://github.com/user-attachments/assets/fa93f75f-5f9f-4003-bab4-9d1503edec55" />
-
-
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
 <img width="628" height="385" alt="image" src="https://github.com/user-attachments/assets/c219a36f-5b37-4905-a9ab-bf61fd1b50d5" />
 
 
 <img width="634" height="398" alt="image" src="https://github.com/user-attachments/assets/4dbc90d7-8aaa-4d90-8be7-2c184fb75fc7" />
+
 
 
 
