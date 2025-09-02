@@ -10,9 +10,7 @@ To write and execute Assembly Language Programs to perform arithmetic operations
 ## APPARATUS REQUIRED
 
 * Personal Computer with MASM Software
-
----
-
+* 
 ## 1. ADDITION
 
 #### Algorithm
@@ -62,6 +60,11 @@ END
 
 
 <img width="634" height="398" alt="image" src="https://github.com/user-attachments/assets/4dbc90d7-8aaa-4d90-8be7-2c184fb75fc7" />
+
+
+
+
+
 
 
 
