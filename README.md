@@ -66,8 +66,10 @@ END
 ---
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
-<img width="631" height="385" alt="image" src="https://github.com/user-attachments/assets/f5839d4f-a4e5-447c-9fde-64dad67d4580" />
-<img width="1442" height="900" alt="image" src="https://github.com/user-attachments/assets/2165b01e-a8ed-4245-8a22-b3a203096b53" />
+<img width="628" height="385" alt="image" src="https://github.com/user-attachments/assets/c219a36f-5b37-4905-a9ab-bf61fd1b50d5" />
+
+<img width="634" height="398" alt="image" src="https://github.com/user-attachments/assets/4dbc90d7-8aaa-4d90-8be7-2c184fb75fc7" />
+
 
 
 
