@@ -98,9 +98,7 @@ END
 
 #### Manual Calculations
 
-(Add your calculation here)
-
----
+<img width="1608" height="894" alt="image" src="https://github.com/user-attachments/assets/9b2a3ae1-7914-4e6f-8118-a018dbfa5db5" />
 
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
