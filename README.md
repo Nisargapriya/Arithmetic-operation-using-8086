@@ -192,12 +192,11 @@ END
 |                         |                          |
 
 #### Manual Calculations
+<img width="1580" height="903" alt="image" src="https://github.com/user-attachments/assets/eb3813f5-54a0-49af-b5b3-914916c2d113" />
 
-(Add your calculation here)
-
----
 ## OUTPUT FROM MASM SOFTWARE
-
+<img width="634" height="401" alt="image" src="https://github.com/user-attachments/assets/fc37e2c1-77d4-4481-84c3-3f0a5245bfbc" />
+<img width="627" height="401" alt="image" src="https://github.com/user-attachments/assets/80b7727f-5b98-4b1f-a75f-77a7555fb6fb" />
 
 
 ## RESULT
