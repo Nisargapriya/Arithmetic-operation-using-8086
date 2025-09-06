@@ -146,12 +146,13 @@ END
 |                         |                          |
 
 #### Manual Calculations
+<img width="1297" height="902" alt="image" src="https://github.com/user-attachments/assets/ec116d50-7344-4a2b-af0e-008c6e792b3d" />
 
-(Add your calculation here)
-
----
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
+<img width="632" height="404" alt="image" src="https://github.com/user-attachments/assets/1422d6a3-befa-47e0-bacd-4dad1baafa0c" />
+<img width="626" height="391" alt="image" src="https://github.com/user-attachments/assets/f143d36c-eed9-4d00-ab1b-0f7c41f8807e" />
+
 
 ## 4. DIVISION
 
